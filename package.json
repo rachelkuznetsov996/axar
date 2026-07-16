@@ -1,6 +1,6 @@
 {
   "name": "axar",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "Minimal typescript agent framework that keeps it simple and gives you control - no BS",
   "main": "src/index.ts",
   "scripts": {
